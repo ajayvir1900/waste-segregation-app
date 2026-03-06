@@ -1,0 +1,9 @@
+{
+  "name": "EcoSort AI - Smart Waste Guide",
+  "short_name": "EcoSort AI",
+  "description": "Educational web app for waste segregation",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#10b981",
+  "theme_color": "#10b981"
+}
